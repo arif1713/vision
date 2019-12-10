@@ -19,7 +19,7 @@ if (isset($_POST['submit'])) {
             <meta name="author" content="">
             
 
-            <title>submission2</title>
+            <title>Result analyze image</title>
 
             <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/starter-template/">
 
@@ -32,6 +32,7 @@ if (isset($_POST['submit'])) {
             <script src="httpS://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     </head>
         <body>
+		<h1>Result analize</h1>
         
 		<main role="main" class="container">
     		<div class="starter-template"> <br><br><br>
