@@ -33,7 +33,7 @@ $result = $blobClient->listBlobs($containerName, $listBlobsOptions);
     <meta name="author" content="">
     
 
-    <title>submision2</title>
+    <title>Computer vision</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/starter-template/">
 
